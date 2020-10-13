@@ -1,3 +1,9 @@
+"""
+Author:Viktoria Denys
+Program:basic_list.py
+
+
+"""
 import unittest
 from unittest.mock import patch
 from fun_with_collections import basic_list
