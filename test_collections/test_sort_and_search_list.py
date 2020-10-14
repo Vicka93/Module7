@@ -1,3 +1,10 @@
+"""
+Author:Viktoria Denys
+Program: sort_and_search_list.py
+
+
+"""
+
 import unittest
 from fun_with_collections import sort_and_search_list
 

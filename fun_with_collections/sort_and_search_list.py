@@ -7,17 +7,13 @@ Program: sort_and_search_list.py
 
 
 def sort_list(lst):
+    # return sorted list
     lst.sort()
     return lst
 
 
-# since same list reference is passwed to the function any changes in
-# list within the function will also be visible outside the function in the list
-# so no need to add a return statement
-
-
-# if element is present in the list function returns index else -1
 def search_list(lst, value):
+    # if element is present in the list function returns index else -1
     for i in range(len(lst)):
         if value in lst:
             return lst.index(value)
