@@ -1,0 +1,4 @@
+(('Viktoriia', 'Denys', [50.0, 50.0, 50.0]),)
+(('Bret', 'Gorre', [5.0, 7.0, 8.0]),)
+(('Viktoriia', 'Denys', []),)
+(('Bret', 'Gorre', []),)
